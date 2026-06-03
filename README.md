@@ -1,7 +1,9 @@
 # ADO 2 - Hospedagem da API REST Node.js
 
 **Projeto:** RateYourAlbums
+
 **Aluno:** Vinícius Sousa
+
 **Disciplina:** Aplicações Web em Camadas
 
 ---
