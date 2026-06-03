@@ -4,7 +4,7 @@
 
 **Aluno:** Vinícius Sousa
 
-**Disciplina:** Aplicações Web em Camadas
+**Disciplina:** Aplicação Web em Camadas
 
 ---
 
